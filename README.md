@@ -29,9 +29,10 @@ python3 phishing.py
 SH-ADV-P
 ```
 
-## ZIP Password Page Inbox 
-## Credit:
+## Tools Password Page Inbox 
 <a href="https://facebook.com/cybershbd">Facebook Page</a>
+## Credit:
+<a href="https://github.com/Teamex07/Ex-Advance-Phisher">Web Source</a>
 
 <br>
 <h3>Visitors :</h3>
