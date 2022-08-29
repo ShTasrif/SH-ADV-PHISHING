@@ -20,7 +20,7 @@ git clone https://github.com/ShTasrif/SH-ADV-PHISHING
 ## Run : 
 ```
 cd SH-ADV-PHISHING 
-python3 phising.py
+python3 phishing.py
 ```
 ## SHORT RUN :
 ```
