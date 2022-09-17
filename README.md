@@ -29,7 +29,7 @@ python3 phishing.py
 SH-ADV-P
 ```
 
-## Tools Password Page Inbox 
+## To get Approval Inbox on Page
 <a href="https://facebook.com/cybershbd">Facebook Page</a>
 ## Credit:
 <a href="https://github.com/Teamex07/Ex-Advance-Phisher">Web Source</a>
